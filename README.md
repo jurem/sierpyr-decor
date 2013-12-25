@@ -9,6 +9,9 @@ To see some images of application results, go to (text is in Slovene)
   * http://lalg.fri.uni-lj.si/jurij/blog/okraski-sierpinskega/
   * http://lalg.fri.uni-lj.si/jurij/blog/generiranje-okraskov-sierpinskega/
 
+
+<img src="http://lalg.fri.uni-lj.si/jurij/blog/wp-content/uploads/2013/12/sierpinski_hex.png" alt="Preview">
+
 Installation
 ------------
 
